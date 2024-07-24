@@ -1,4 +1,4 @@
-# Session 2 EDA and Feature Engneering.md
+EDA and Feature Engineering.md
 
 SQL joins are used to combine rows from two or more tables, based on a related column between them. Understanding joins is fundamental in performing complex queries that involve multiple tables. There are several types of joins in SQL:
 
